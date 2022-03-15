@@ -2,7 +2,7 @@
 <h1 align="center"><b>3.5mm READY</b></h1>
 <p align="center">3.5mm READY Certification</p>
 
-![badge](https://img.shields.io/badge/3.5mm-Ready-%23FF4D5B.svg?style=flat-square)
+![badge](https://img.shields.io/badge/3.5mm-Ready-%23FF4D5B.svg?style=flat-square)[![License](https://licensebuttons.net/l/zero/1.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
 ## Get Started
 
